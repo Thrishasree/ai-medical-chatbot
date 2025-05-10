@@ -1,5 +1,5 @@
 secret:
   ignored_matches:
-  - match: 5acaff383a3aa9f4bf64bc8a0a56c2e0f07d6760ad6c51d543a103c40ddd7765
+  - match: 
     name: Groq API Key - ai_medical_chatbot-main/app.py:l.24
 version: 2
